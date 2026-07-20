@@ -1,0 +1,50 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="langsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1044"/>
+      <stop offset="100%" stop-color="#150a30"/>
+    </linearGradient>
+    <clipPath id="langsRound"><rect width="495" height="195" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#langsRound)">
+    <rect width="495" height="195" fill="url(#langsBg)"/>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="15.5" fill="none" stroke="#4a2a8c"/>
+    <text x="30" y="32" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="700" fill="#f1e9ff">Most Used Languages</text>
+    
+  <text x="30" y="52" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#a992d6">Python</text>
+  <text x="465" y="52" text-anchor="end" font-family="'Fira Code',monospace" font-size="11.5" fill="#f1e9ff" opacity="0">50%
+    <animate attributeName="opacity" begin="1.30s" dur="0.3s" from="0" to="1" fill="freeze"/>
+  </text>
+  <rect x="30" y="58" width="435" height="10" rx="5" fill="#150a30" stroke="#4a2a8c" stroke-width="0.8"/>
+  <rect x="30" y="58" width="0" height="10" rx="5" fill="#3572A5">
+    <animate attributeName="width" begin="0.40s" dur="1s" from="0" to="217.5" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/>
+  </rect>
+
+  <text x="30" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#a992d6">Jupyter Notebook</text>
+  <text x="465" y="82" text-anchor="end" font-family="'Fira Code',monospace" font-size="11.5" fill="#f1e9ff" opacity="0">25%
+    <animate attributeName="opacity" begin="1.50s" dur="0.3s" from="0" to="1" fill="freeze"/>
+  </text>
+  <rect x="30" y="88" width="435" height="10" rx="5" fill="#150a30" stroke="#4a2a8c" stroke-width="0.8"/>
+  <rect x="30" y="88" width="0" height="10" rx="5" fill="#DA5B0B">
+    <animate attributeName="width" begin="0.60s" dur="1s" from="0" to="108.8" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/>
+  </rect>
+
+  <text x="30" y="112" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#a992d6">C++</text>
+  <text x="465" y="112" text-anchor="end" font-family="'Fira Code',monospace" font-size="11.5" fill="#f1e9ff" opacity="0">15%
+    <animate attributeName="opacity" begin="1.70s" dur="0.3s" from="0" to="1" fill="freeze"/>
+  </text>
+  <rect x="30" y="118" width="435" height="10" rx="5" fill="#150a30" stroke="#4a2a8c" stroke-width="0.8"/>
+  <rect x="30" y="118" width="0" height="10" rx="5" fill="#f34b7d">
+    <animate attributeName="width" begin="0.80s" dur="1s" from="0" to="65.2" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/>
+  </rect>
+
+  <text x="30" y="142" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#a992d6">SQL</text>
+  <text x="465" y="142" text-anchor="end" font-family="'Fira Code',monospace" font-size="11.5" fill="#f1e9ff" opacity="0">10%
+    <animate attributeName="opacity" begin="1.90s" dur="0.3s" from="0" to="1" fill="freeze"/>
+  </text>
+  <rect x="30" y="148" width="435" height="10" rx="5" fill="#150a30" stroke="#4a2a8c" stroke-width="0.8"/>
+  <rect x="30" y="148" width="0" height="10" rx="5" fill="#5ce1ff">
+    <animate attributeName="width" begin="1.00s" dur="1s" from="0" to="43.5" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/>
+  </rect>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7b2ff7"/>
+    <stop offset="100%" stop-color="#ff4fd8"/>
+  </linearGradient>
+  <linearGradient id="cellBg" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#1c0740"/>
+    <stop offset="100%" stop-color="#0f0224"/>
+  </linearGradient>
+  <linearGradient id="tShine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="720" height="180" rx="16" fill="#0d0221"/>
+
+<g font-family="Verdana" font-size="13" fill="#f1e6ff" text-anchor="middle">
+  <!-- 5 trophy cells -->
+  <g transform="translate(20,20)">
+    <rect width="120" height="140" rx="12" fill="url(#cellBg)" stroke="url(#tBg)" stroke-width="1.5" transform="scale(0)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.1;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    </rect>
+    <text x="60" y="45" font-size="30">🏆</text>
+    <text x="60" y="75">Commits</text>
+    <text x="60" y="95" fill="#ffd76e" font-weight="bold">GOLD</text>
+    <rect x="0" y="0" width="120" height="140" rx="12" fill="url(#tShine)"><animate attributeName="x" values="-140;140" dur="2.6s" begin="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(155,20)">
+    <rect width="120" height="140" rx="12" fill="url(#cellBg)" stroke="url(#tBg)" stroke-width="1.5" transform="scale(0)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.1;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.25s" fill="freeze"/>
+    </rect>
+    <text x="60" y="45" font-size="30">⭐</text>
+    <text x="60" y="75">Stars</text>
+    <text x="60" y="95" fill="#c9c9d4" font-weight="bold">SILVER</text>
+    <rect x="0" y="0" width="120" height="140" rx="12" fill="url(#tShine)"><animate attributeName="x" values="-140;140" dur="2.6s" begin="1.15s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(290,20)">
+    <rect width="120" height="140" rx="12" fill="url(#cellBg)" stroke="url(#tBg)" stroke-width="1.5" transform="scale(0)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.1;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <text x="60" y="45" font-size="30">🔥</text>
+    <text x="60" y="75">Streak</text>
+    <text x="60" y="95" fill="#ffd76e" font-weight="bold">GOLD</text>
+    <rect x="0" y="0" width="120" height="140" rx="12" fill="url(#tShine)"><animate attributeName="x" values="-140;140" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(425,20)">
+    <rect width="120" height="140" rx="12" fill="url(#cellBg)" stroke="url(#tBg)" stroke-width="1.5" transform="scale(0)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.1;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.55s" fill="freeze"/>
+    </rect>
+    <text x="60" y="45" font-size="30">🤝</text>
+    <text x="60" y="75">Pull Shark</text>
+    <text x="60" y="95" fill="#c96a3f" font-weight="bold">BRONZE</text>
+    <rect x="0" y="0" width="120" height="140" rx="12" fill="url(#tShine)"><animate attributeName="x" values="-140;140" dur="2.6s" begin="1.45s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(560,20)">
+    <rect width="120" height="140" rx="12" fill="url(#cellBg)" stroke="url(#tBg)" stroke-width="1.5" transform="scale(0)">
+      <animateTransform attributeName="transform" type="scale" values="0;1.1;1" keyTimes="0;0.7;1" dur="0.6s" begin="0.7s" fill="freeze"/>
+    </rect>
+    <text x="60" y="45" font-size="30">🧠</text>
+    <text x="60" y="75">AI/ML</text>
+    <text x="60" y="95" fill="#ffd76e" font-weight="bold">GOLD</text>
+    <rect x="0" y="0" width="120" height="140" rx="12" fill="url(#tShine)"><animate attributeName="x" values="-140;140" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></rect>
+  </g>
+</g>
+</svg>
