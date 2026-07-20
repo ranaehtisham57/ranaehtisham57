@@ -1,198 +1,105 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
-  <img alt="Banner" src="./assets/banner.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img alt="Muhammad Ehtisham banner" src="banner.svg?v=1" width="100%">
 </picture>
 
-<br><br>
+<img src="lanyard.svg?v=1" width="260" alt="Muhammad Ehtisham ID badge">
 
-<img src="./assets/lanyard.svg?v=1" width="320"/>
+<br/>
 
-# Muhammad Ehtisham
-
-### AI / ML Engineer
-
-> *Teaching machines to think... and myself too.*
-
-<p>
-
-<a href="https://github.com/ranaehtisham57">
-<img src="https://img.shields.io/badge/GitHub-ranaehtisham57-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:ranaehtisham719@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ranaehtisham57&style=for-the-badge&color=blueviolet">
-
-</p>
+[![Email](https://img.shields.io/badge/Email-ranaehtisham719%40gmail.com-8a5cff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranaehtisham719@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ranaehtisham57-150a30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranaehtisham57)
+![Profile Views](https://komarev.com/ghpvc/?username=ranaehtisham57&color=8a5cff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-```python
-class MuhammadEhtisham:
+- 🎓 BS Artificial Intelligence student, learning to build systems that learn
+- 🤖 Focused on **Machine Learning**, data preprocessing, and turning messy data into clean insight
+- 🧠 Comfortable across **Python** and **C++**, with a growing toolkit in **SQL**, **Pandas**, and **Scikit-learn**
+- 📊 Interested in data visualization — making numbers tell a story
+- 🌱 Currently sharpening my skills project by project, one model at a time
+- 💬 *"Teaching machines to think... and myself too."*
 
-    name = "Muhammad Ehtisham"
+<br/>
 
-    role = "AI/ML Engineer"
-
-    location = "Pakistan"
-
-    currently_learning = [
-        "Machine Learning",
-        "Deep Learning",
-        "Computer Vision",
-        "Data Science"
-    ]
-
-    motto = "Teaching machines to think... and myself too."
-```
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql">
-
-</p>
-
-<table align="center">
-
-<tr>
-<td>Python</td>
-<td>★★★★★</td>
-</tr>
-
-<tr>
-<td>C++</td>
-<td>★★★★☆</td>
-</tr>
-
-<tr>
-<td>SQL</td>
-<td>★★★★☆</td>
-</tr>
-
-<tr>
-<td>Pandas</td>
-<td>★★★★★</td>
-</tr>
-
-<tr>
-<td>Scikit-Learn</td>
-<td>★★★★★</td>
-</tr>
-
-<tr>
-<td>Data Visualization</td>
-<td>★★★★☆</td>
-</tr>
-
-<tr>
-<td>Data Preprocessing</td>
-<td>★★★★★</td>
-</tr>
-
-<tr>
-<td>Machine Learning</td>
-<td>★★★★★</td>
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Dashboard
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="./assets/stats.svg?v=1" width="48%">
-
-<img src="./assets/langs.svg?v=1" width="48%">
-
-<br><br>
-
-<img src="./assets/trophies.svg?v=1" width="96%">
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-ff6fd8?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-5ce1ff?style=for-the-badge)
 
 </div>
 
----
+<br/>
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| House Price Prediction | Complete ML Regression Pipeline | Python, Pandas, Scikit-Learn |
-| Air Reservation System | SQL + Backend Project | SQL, Node.js |
-| Data Cleaning Toolkit | Real-world preprocessing utilities | Python |
-| ML Practice Repository | Regression & Classification Algorithms | Python |
-
----
-
-# 📈 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaehtisham57&theme=tokyo-night&hide_border=true"/>
-
+<img src="stats.svg?v=1" width="48%" alt="GitHub stats card"/>
+<img src="langs.svg?v=1" width="48%" alt="Most used languages card"/>
 </div>
 
----
-
-# 🐍 Contribution Snake
+<br/>
 
 <div align="center">
-
-<img src="https://github.com/ranaehtisham57/ranaehtisham57/blob/output/github-contribution-grid-snake-dark.svg">
-
+<img src="trophies.svg?v=1" width="100%" alt="Trophy case"/>
 </div>
 
----
+<br/>
 
-# 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
-
-<a href="mailto:ranaehtisham719@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/ranaehtisham57">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaehtisham57&theme=react-dark&hide_border=true&bg_color=0d0221&color=a992d6&line=ff6fd8&point=5ce1ff" width="100%" alt="Contribution activity graph"/>
 </div>
 
----
+<br/>
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| [House-price-pridictor](https://github.com/ranaehtisham57/House-price-pridictor) | Jupyter Notebook / Python | Regression model that predicts house prices from housing data |
+| [Veterinary-Expert-System](https://github.com/ranaehtisham57/Veterinary-Expert-System) | Python | Rule-based expert system for veterinary diagnosis |
+| [Train-Management](https://github.com/ranaehtisham57/Train-Management) | Python | Train scheduling and booking management system |
+| [Banking-system](https://github.com/ranaehtisham57/Banking-system) | C++ | OOP-based banking system simulating accounts and transactions |
+| [Cofee-Macgine-project](https://github.com/ranaehtisham57/Cofee-Macgine-project) | Python | Coffee vending machine simulation project |
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranaehtisham57/ranaehtisham57/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranaehtisham57/ranaehtisham57/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ranaehtisham57/ranaehtisham57/output/github-contribution-grid-snake.svg?v=1" width="100%">
+</picture>
+</div>
+
+<br/>
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Let's Connect
 
-*"Keep Learning • Keep Building • Keep Growing"*
+[![Gmail](https://img.shields.io/badge/-ranaehtisham719@gmail.com-8a5cff?style=flat-square&logo=gmail&logoColor=white)](mailto:ranaehtisham719@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ranaehtisham57-150a30?style=flat-square&logo=github&logoColor=white)](https://github.com/ranaehtisham57)
 
-</div>## Hi there 👋
+<sub>Thanks for stopping by — always open to collaborating on ML & data projects 🚀</sub>
 
-<!--
-**ranaehtisham57/ranaehtisham57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
